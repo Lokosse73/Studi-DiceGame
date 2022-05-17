@@ -1,1 +1,1 @@
-<a src='index.php'>go to game</a>
+<a href='index.php'>go to game</a>
